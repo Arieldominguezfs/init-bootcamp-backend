@@ -11,8 +11,8 @@ Este repositorio está organizado en temas que te ayudarán a aprender de forma 
 ---
 
 ### 1. Que es github?
-  - [Video: ¿Qué es Github?]([https://www.youtube.com/watch?v=IFcWZgJzBt0&ab_channel=ComputerHoy.com])
-  - [Video: ¿Qué es Github?]([https://www.youtube.com/watch?v=DinilgacaWs&ab_channel=Platzi))
+  - [Video: ¿Qué es Github?](https://www.youtube.com/watch?v=IFcWZgJzBt0&ab_channel=ComputerHoy.com)
+  - [Video: ¿Qué es Github?](https://www.youtube.com/watch?v=DinilgacaWs&ab_channel=Platzi)
 
 
 ### 1. 🌐 ¿Qué es el Backend?
