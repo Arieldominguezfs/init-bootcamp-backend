@@ -1,4 +1,4 @@
-# Introducción al Desarrollo Backend con Java y Spring Boot 🚀
+# Introducción al Desarrollo Backend con Python y Django 🚀
 
 ¡Bienvenido a esta guía de aprendizaje del desarrollo backend con Java y Spring Boot! Aquí encontrarás una estructura clara para que, aunque no tengas experiencia previa en programación, puedas dar tus primeros pasos y convertirte en un desarrollador backend.
 
@@ -21,7 +21,7 @@ Este repositorio está organizado en temas que te ayudarán a aprender de forma 
   - Diferencia entre frontend y backend.
   - Concepto de servidor y cliente.
   - Ejemplo simple: ¿Qué pasa cuando visitas una página web?
-- **Material de Apoyo:**
+- 
   - [Video: ¿Qué es el backend?](https://www.youtube.com/watch?v=Wn_Kb3MR_cU)
   
 ---
