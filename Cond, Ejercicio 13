@@ -1,0 +1,7 @@
+num1 = int(input("Ingrese un numero entero: "))
+num2 = int(input("Ingrese segundo numero entero: "))
+if num1 > num2:
+    print("El primer numero es mayor que el segundo.")
+else:
+    print("El segundo numero es mayor al primero.")
+    
