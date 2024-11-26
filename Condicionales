@@ -1,0 +1,7 @@
+edad = int(input("ingrese su edad: "))
+distancia = float(input("ingrese la distancia: "))
+exento = (edad > 70) or (18 <= edad <= 70 and distancia > 500)
+if exento:
+    print("El ciudadano esta exento de votar.")
+else:
+    print("El ciudadano debe votar.")
